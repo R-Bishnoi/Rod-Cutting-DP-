@@ -1,5 +1,8 @@
 
 //rod cutting 
+// same as unbounded knapsack problem here we just make a array of rod length and value of array is 1,2,3,...n
+// then after this problem same as unbounded knapsack
+
 
 class Solution{
   public:
